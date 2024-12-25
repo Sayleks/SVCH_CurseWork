@@ -11,12 +11,7 @@ yarn-error.log*
 # Директория зависимостей Bower (если используете)
 bower_components/
 
-# Файлы окружения
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+
 
 # Кэш файлов
 .cache/
